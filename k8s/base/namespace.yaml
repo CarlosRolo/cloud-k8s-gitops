@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: teleops
+  labels:
+    managed-by: argocd
+    project: cloud-k8s-gitops
