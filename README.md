@@ -156,6 +156,7 @@ Production-grade Kubernetes cluster running locally with k3s, a custom Helm char
 **Carlos David Rodriguez Lopez**  
 Telematic Engineer — ESPOCH  
 Riobamba, Chimborazo, Ecuador  
+Manta, Manabí, Ecuador  
 GitHub: [github.com/CarlosRolo](https://github.com/CarlosRolo)  
 LinkedIn: [linkedin.com/in/carlosdrodriguezl](https://linkedin.com/in/carlosdrodriguezl)
 
