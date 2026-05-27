@@ -5,6 +5,7 @@
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-v3.4.2-EF7B4D?logo=argo&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.111-009688?logo=fastapi&logoColor=white)
 ![Tests](https://img.shields.io/badge/Tests-5%2F5%20passing-brightgreen)
+![CI](https://github.com/CarlosRolo/cloud-k8s-gitops/actions/workflows/ci.yml/badge.svg)
 
 Production-grade Kubernetes cluster running locally with k3s, a custom Helm chart for a FastAPI application, and full GitOps automation with ArgoCD. Every push to GitHub triggers an automatic deployment to the cluster.
 
